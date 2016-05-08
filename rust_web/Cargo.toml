@@ -1,0 +1,7 @@
+[package]
+name = "rust_web"
+version = "0.1.0"
+authors = ["Andrey Butov <andreybutov@mail.ru>"]
+
+[dependencies]
+iron = "*"
